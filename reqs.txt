@@ -1,0 +1,12 @@
+# for lenin lib
+numpy
+scipy
+
+# Для загрузки данных
+scikit-learn
+torchvision
+pandas
+
+# Для работы jupyter notebook
+jupyter
+matplotlib
